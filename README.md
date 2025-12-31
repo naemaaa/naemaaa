@@ -1,5 +1,7 @@
 # n a e m a . p a t h ☁️
+
 **AI/ML researcher in training | Data manifesting**
+![naemaa](./assets/header.png)
 
 ```python
 class Naema:
@@ -10,3 +12,4 @@ class Naema:
 
     def daily_routine(self):
         return ["code", "coffee", "slay", "repeat"]
+```
